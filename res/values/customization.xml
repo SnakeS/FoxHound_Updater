@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string name="app_name">FoxHound Updater</string>
+	<!-- About Strings -->
+	<string name="about_comments">Auto-update for Batista70 Rom By Snakes</string>
+	<string name="about_credits">Ported to Samsung Galaxy s2 by 89luca89\n\nThanks 89luca89 for the help!\nThanks to Sergi Vélez - garok89 - Ross McAusland - FireFart - Christian Mehlmauer - senab - Chris Banes - prash - matt_stang\n\n</string>
+	<string name="about_copyright">Copyright © 2009,2011 Sergi Vélez, SnakeS</string><!-- Add your name here, separated with comma's, if you helped out -->
+	<string name="about_website_label">FoxHound at XDA</string>
+	<string name="about_website_url">http://forum.xda-developers.com/showthread.php?t=1162715</string>
+	<string name="about_email">http://forum.xda-developers.com/private.php?do=newpmu=2430512</string>
+
+	<!-- Config Strings -->
+	<string name="conf_update_server_url_def">http://github.com/SnakeS/updater-manifest/raw/master/update_file.json</string>
+	<string name="conf_extra_version_file_def">/system/extras.extra</string>
+	<string name="conf_changelog_url">http://dl.dropbox.com/u/41442571/features/changelog.xml</string>
+	<string name="conf_featured_extras_url">http://dl.dropbox.com/u/41442571/features/FeaturedExtras.xml</string>
+	<!-- About dialog -->
+	<string-array name="about_authors">
+        	<item>Sergi Vélez http://code.google.com/p/jfupdater</item>
+        	<item>Darkrift http://android-dls.com</item>
+        	<item>Dan Poulsen</item>
+		<item>FireFart</item>
+		<item>senab</item>
+	</string-array>
+
+	<string-array name="about_translators">
+		<item>FireFart</item>
+		<item>DavidChill</item>
+		<item>Moksha</item>
+		<item>Gamempire</item>
+		<item>Wiebbe</item>
+		<item>Chahk</item>
+		<item>Offcina</item>
+		<item>ss1271</item>
+		<item>baggus</item>
+		<item>kog</item>
+		<item>ZilverZurfan</item>
+		<item>Jar0b_</item>
+		<item>zezol</item>
+	</string-array>
+
+	<string-array name="about_artists">
+		<item>prash</item>
+		<item>matt_stang</item>
+	</string-array>
+</resources>
